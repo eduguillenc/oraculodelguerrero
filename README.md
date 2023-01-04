@@ -1,4 +1,4 @@
-![Logo](https://github.com/eduguillenc/oraculodelguerrero/blob/master/img/30.jpg)
+![Logo](https://github.com/eduguillenc/oraculodelguerrero/blob/main/img/30.jpg)
 
 # El oraculo del Guerrero
 Libro interactivo del oraculo del Guerrero por Lucas Estrella.
